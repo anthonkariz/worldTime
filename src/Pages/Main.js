@@ -54,7 +54,7 @@ export default function Main() {
       </div>
       <div className="container-fluid ribon">
         <div className="container">
-          <h1>Rebon</h1>
+        
         </div>
       </div>
 
